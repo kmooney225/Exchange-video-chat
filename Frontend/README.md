@@ -1,5 +1,3 @@
 # Exchange-video-chat
 
-## Contributors
-- Kevin 
-- Peng
+## Frontend
