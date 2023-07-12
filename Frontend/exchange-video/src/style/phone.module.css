@@ -1,0 +1,32 @@
+.phoneContainer {
+    padding: 3em 1.7em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: var(--backgroundColor);
+    position: relative;
+}
+
+.phoneContainer h1 {
+    font-size: 1.3em;
+    font-weight: 500;
+    font-style: normal;
+    margin-bottom: 0;
+    color: var(--textColor);
+}
+
+.phoneContainer p {
+    font-size: 0.775em;
+    font-weight: normal;
+    margin: 0;
+    width: 100%;
+    max-width: 270px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.phoneContainer span {
+    font-weight: 500;
+}
