@@ -12,7 +12,9 @@ export default function Main() {
                 </p>
             </div>
             <div className={style.actionBtn}>
-                <Link exact to='/get_username' className="primaryBtn d-flex align-items-center mb-3">
+                <Link 
+                exact to='/get_username' 
+                className="primaryBtn d-flex align-items-center mb-3">
                     New here? Get Your Username!
                     {/* <img src="" alt="" /> */}
                 </Link>
